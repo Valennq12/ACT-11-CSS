@@ -1,0 +1,12 @@
+caption {
+    caption-side: bottom;
+}
+
+table{
+    table-layout: fixed;
+    column-width: 150px;
+    border-collapse: separate;
+    border-spacing: 25px 25px;
+    empty-cells: hide;
+}
+
